@@ -1,1 +1,1 @@
-Pipeline for the automated Igblast seuqences analysis
+Pipeline for the automated Igblast sequences analysis
